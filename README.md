@@ -1,0 +1,2 @@
+# salon
+Güzellik salonları yazılımı
